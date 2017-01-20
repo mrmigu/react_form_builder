@@ -1,0 +1,24 @@
+{
+  "pageTitle": "",
+  "includes": [""],
+  "inputContainerClass" :"",
+  "componentName": "",
+  "fields": [
+    {
+      "name": "",
+      "label": "",
+      "type": "select",
+      "options": [
+        {"label": "", "value": ""},
+        {"label": "", "value":""},
+        {"label": "", "value": ""}
+      ]
+    },
+    {
+      "name": "",
+      "label": "",
+      "type": "text"
+    }
+  ],
+  "submitText": ""
+}
